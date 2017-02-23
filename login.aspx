@@ -69,7 +69,7 @@
         </table>
         <p>
             <a href="NewAccount.aspx"><span class="auto-style6">Need a New Account?</span></a></p>
-        </p>
+
 
     </form>
     </body>
